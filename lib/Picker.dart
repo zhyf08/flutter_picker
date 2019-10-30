@@ -79,7 +79,7 @@ class PickerLocalizations {
 
 /// Picker
 class Picker {
-  static const double DefaultTextSize = 20.0;
+  static const double DefaultTextSize = 14.0;
 
   /// Index of currently selected items
   List<int> selecteds;
